@@ -18,7 +18,7 @@ The Module 14 Challenge uses JavaScript to build an interactive dashboard to exp
 *Bar chart is generated when a test subject is selected on the drop menu*<br>
 * *Displays the top 10 OTUs found in the selected test subject, where the `sample_values` are presented as the values for the bar chart and the `otu_ids` presented as the labels for the bar chart*<br>
 * *When users hover over a bar, the `otu_labels` are presented as the hovertext for the chart*<br>
-![image]
+![image](https://github.com/RachaelCaldwell/belly-button-challenge/blob/main/images/bar_chart.png)
 
 **Bubble Chart**<br>
 *A bubble chart is generated when a test subject is selected on the drop menu*<br>
