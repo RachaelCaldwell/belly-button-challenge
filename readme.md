@@ -1,7 +1,8 @@
 # belly-button-challenge
 
 ## Description
-The Module 14 Challenge uses JavaScript to build an interactive dashboard to explore the [Belly Button Biodiversity dataset](http://robdunnlab.com/projects/belly-button-biodiversity/), which catalogs the microbes that colonize human navels. The dataset reveals that a small handful of microbial species (also called operational taxonomic units, or OTUs, in the study) were present in more than 70% of people, while the rest were relatively rare.
+The Module 14 Challenge uses JavaScript to build an interactive dashboard to explore the [Belly Button Biodiversity dataset](http://robdunnlab.com/projects/belly-button-biodiversity/), which catalogs the microbes that colonize human navels. The dataset reveals that a small handful of microbial species (also called operational taxonomic units, or OTUs, in the study) were present in more than 70% of people, while the rest were relatively rare.<br>
+![image]()
 
 ## Dashboard Features
 
@@ -25,4 +26,4 @@ The Module 14 Challenge uses JavaScript to build an interactive dashboard to exp
 * *Each sample is displayed as a bubble, where the larger the sample value, the larger the bubble size*<br>
 * *Displays the x values as the `otu_ids`, the y values as the `sample_values`*<br>
 * *Displays the colors of the bubbles based on `otu_ids`, where the hovertext is the `otu_labels`*<br>
-![image]
+![image](https://github.com/RachaelCaldwell/belly-button-challenge/blob/main/images/bubble_chart.png)
