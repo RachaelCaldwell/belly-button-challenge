@@ -7,7 +7,7 @@ The Module 14 Challenge uses JavaScript to build an interactive dashboard to exp
 
 **Drop Down Menu**<br>
 *Allows uses to select the Test Subject ID No. with the drop down menu to toggle the visualizations (demographic info, bar and bubble charts)* <br>
-![image]
+![image](https://github.com/RachaelCaldwell/belly-button-challenge/blob/main/images/dropdown.png)
 
 **Demographic Info Panel**<br>
 * *Displays the demographic information of the chosen test subject*<br>
