@@ -12,7 +12,7 @@ The Module 14 Challenge uses JavaScript to build an interactive dashboard to exp
 **Demographic Info Panel**<br>
 * *Displays the demographic information of the chosen test subject*<br>
 * *Displays each key-value pair from the metadata JSON object*<br>
-![image]
+![image](https://github.com/RachaelCaldwell/belly-button-challenge/blob/main/images/demo_info.png)
 
 **Horizontal Bar Graph**<br>
 *Bar chart is generated when a test subject is selected on the drop menu*<br>
